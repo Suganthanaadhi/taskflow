@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-<h1>TaskFlow - Team Editions</h1>
+      <h1>TaskFlow App</h1>
       <input
         type="text"
         value={input}
