@@ -18,7 +18,7 @@ function App() {
         {tasks.map((task, index) => (
           <li key={index}>{task}</li>
         ))}
-      </ul>
+      </ul> <button>Add Task</button>
     </div>
   )
 }
